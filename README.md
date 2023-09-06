@@ -1,5 +1,5 @@
 # PC-CleanUp
-Maintenace Shell Script for General PC Health
+Maintenace Shell Script for General PC Health (both in Power Shell and Batch)
 
 # System Repair Script
 
